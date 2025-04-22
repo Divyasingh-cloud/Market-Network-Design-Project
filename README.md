@@ -20,7 +20,7 @@ Internet + Local communication
 
 ---
 
-# **Key Features**
+# ***Key Features***
 
 Topology: Star or Hybrid (Main switch/router connects to store switches)
 
@@ -62,7 +62,7 @@ Central syslog and alerts
 
 ---
 
-# **Network Devices Used**
+# ***Network Devices Used***
 
 Routers (1)
 
@@ -80,7 +80,7 @@ POS Terminals
 
 ---
 
-# **Simulation Tools**
+# ***Simulation Tools***
 
 Cisco Packet Tracer or GNS3
 
@@ -94,7 +94,7 @@ Zabbix/PRTG for monitoring setup
 
 ---
 
-# **Project Folder Structure**
+# ***Project Folder Structure***
 
 /market-network-design
 ├── diagrams/
